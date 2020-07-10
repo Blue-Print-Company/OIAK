@@ -1,4 +1,8 @@
 # Office Installation and Activation Kit
-##### This kit is completely open source, download OIAK.exe, then run it,start developing!
-## Run Start.bat after extracting to install office.
-## [Download](https://github.com/OctonalXX/OIAK/raw/master/OIAK.exe)
+##### This kit is completely open source, extract OIAK.exe to develop
+#### [Download OIAK.exe](https://github.com/OctonalXX/OIAK/raw/master/OIAK.exe)
+## Guide
+### 1.Run OIAK.exe
+### 2.Extract
+### 3.Open folder
+### 4.Run Start.bat to install
