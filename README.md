@@ -6,3 +6,4 @@
 ### 2.Extract
 ### 3.Open folder
 ### 4.Run Start.bat to install
+### 5.Run Activator.bat to activate office for 180 days
