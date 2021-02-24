@@ -1,6 +1,6 @@
 # Office Installation and Activation Kit
 ##### This kit is completely open source, extract OIAK.exe to develop
-#### [Download OIAK.exe](https://github.com/OctonalXX/OIAK/raw/master/OIAK.exe)
+#### [Download OIAK.exe](https://github.com/Blue-Print-Company/OIAK/releases)
 ## Guide
 ### 1.Run OIAK.exe
 ### 2.Extract
